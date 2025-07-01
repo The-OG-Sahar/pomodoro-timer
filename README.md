@@ -43,5 +43,8 @@ A **simple and aesthetic Pomodoro timer** built using HTML, CSS, and JavaScript 
 This project is open-source and free to use.
 
 ---
+## 🌐 Live Demo
 
+[Try the Pomodoro Timer here
+   https://the-og-sahar.github.io/pomodoro-timer/
 
